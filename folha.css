@@ -1,0 +1,15 @@
+/* Estilos personalizados */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 960px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
